@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<odoo>
+    <data>
+
+
+        <!-- Wizard -->
+        <record id="umg_grupo2_view" model="ir.ui.view">
+            <field name="name">Grupo #2</field>
+            <field name="model">umg_grupo2.grupo2.wizard</field>
+            <field name="arch" type="xml">
+
+                <form string="Wizard">
+                    <group>
+                        <span><strong>Carné: </strong>5390-17-1398  Jhayr Scott Marin Rivera</span>
+                    </group>
+                    <group>
+                        <span><strong>Carné: </strong>5390-17-1398  Nery Rodolfo Sinay Mate</span>
+                    </group>
+                    <group>
+                        <span><strong>Carné: </strong>5390-17-1398  Cristofer Israel de León Santos</span>
+                    </group>
+                    <group>
+                        <span><strong>Carné: </strong>5390-17-1398  Horacio Lorenzo Bámaca Díaz</span>
+                    </group>
+                    <footer>
+                        <button string="Cancel" class="btn btn-secondary" special="cancel" />
+                    </footer>
+                </form>
+            </field>
+        </record>
+
+        <!--Accion  -->
+        <record id="action_umg_grupo2_menu" model="ir.actions.act_window">
+            <field name="name">Integrantes Grupo #2</field>
+            <field name="res_model">umg_grupo2.grupo2.wizard</field>
+            <field name="view_mode">form</field>
+            <field name="view_id" ref="umg_grupo2_view" />
+            <field name="target">new</field>
+        </record>
+
+        <!-- Opción en menú -->
+        <menuitem id="menu_envio_boleta_pago_menu_list" name="Integrantes Grupo #2" action="action_umg_grupo2_menu" parent="base.menu_administration" />
+    </data>
+</odoo>

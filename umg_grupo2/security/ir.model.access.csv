@@ -1,0 +1,2 @@
+id,name,model_id:id,group_id:id,perm_read,perm_write,perm_create,perm_unlink
+umg_grupo2.access_umg_grupo2_grupo2_wizard,access_umg_grupo2_grupo2_wizard,umg_grupo2.model_umg_grupo2_grupo2_wizard,base.group_user,1,1,1,1
