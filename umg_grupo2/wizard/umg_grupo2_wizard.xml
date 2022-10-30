@@ -11,16 +11,19 @@
 
                 <form string="Wizard">
                     <group>
-                        <span><strong>Carné: </strong>5390-17-1398  Jhayr Scott Marin Rivera</span>
+                        <span><strong>Carné: </strong>JHAYR SCOTT MARIN RIVERA 5390 17 13989</span>
                     </group>
                     <group>
-                        <span><strong>Carné: </strong>5390-17-1398  Nery Rodolfo Sinay Mate</span>
+                        <span><strong>Carné: </strong>HERSON ESTUARDO RAXON OLIVA 5390 14 685</span>
                     </group>
                     <group>
-                        <span><strong>Carné: </strong>5390-17-1398  Cristofer Israel de León Santos</span>
+                        <span><strong>Carné: </strong>DOUGLAS BLADIMIR BERDUO PEREZ 5390-18-3679</span>
                     </group>
                     <group>
-                        <span><strong>Carné: </strong>5390-17-1398  Horacio Lorenzo Bámaca Díaz</span>
+                        <span><strong>Carné: </strong>MARIO RENE LOPEZ ORDOÑEZ 5390-16-20849</span>
+                    </group>
+                    <group>
+                        <span><strong>Carné: </strong>CRISTOFER ISRAEL DE LEON SANTOS 5390 06 2060</span>
                     </group>
                     <footer>
                         <button string="Cancel" class="btn btn-secondary" special="cancel" />
