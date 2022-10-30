@@ -8,10 +8,11 @@
     'description': """
         Entrega de proyecto por parte del grupo #2 de la Universidad Mariano Gálvez de Guatemala.
         Integrantes:
-            NERY RODOLFO SINAY MATEO 5390 18 22939\n
-            CRISTOFER ISRAEL DE LEÓN SANTOS 5390 06 2060\n
-            HORACIO LORENZO BAMACA DIAZ 5390 17 6440\n
-            JHAYR SCOTT MARIN RIVERA 5390 17 1398\n
+            JHAYR SCOTT MARIN RIVERA 5390 17 13989\n
+            HERSON ESTUARDO RAXON OLIVA 5390 14 685\n
+            DOUGLAS BLADIMIR BERDUO PEREZ 5390-18-3679\n
+            MARIO RENE LOPEZ ORDOÑEZ 5390-16-20849\n
+            CRISTOFER ISRAEL DE LEON SANTOS 5390 06 2060\n
         """,
 
     'author': "Grupo2",
